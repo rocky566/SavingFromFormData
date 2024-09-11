@@ -12,7 +12,7 @@ services:
     env:
       - name: dotenv
         value: "name"
-      - name: HAKR
+      - name: SAHIL
         value: "value"
     resources:
       cpu: "free"
